@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "776617368690",
+    "firebase_url": "https://pizzas-do-gaucho-9e218.firebaseio.com",
+    "project_id": "pizzas-do-gaucho-9e218",
+    "storage_bucket": "pizzas-do-gaucho-9e218.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776617368690:android:ce1ba0a2b125f1c6ba36eb",
+        "android_client_info": {
+          "package_name": "com.atendimento.merchant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776617368690-ncjflrku769hdkid7ap94625bt7j9maj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEZxJWoNi-sMxhxvv3Og9RYl8WD9zmwQA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "776617368690-ncjflrku769hdkid7ap94625bt7j9maj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
